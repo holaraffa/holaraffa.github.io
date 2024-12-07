@@ -7,7 +7,7 @@
         "business": {
             "title": "Servicios",
             "no_business_found": "No se encontró ningún servicio",
-            "from_to": "DEL ... AL",
+            "from_to": "DE ... A",
             "closed": "Cerrado"
         },
         "events": {

@@ -103167,7 +103167,7 @@ $2(a,b){var s,r,q,p=this,o=null,n=A.c_(a,o,t.l).w,m=A.aX(A.d4("general.filters")
 j=A.fy(!1,o,A.ps(o,new A.hy(4,A.eN(8),B.du),o,B.eG,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,i,o,o,o,o,o,o,o,o,o,o,o,o,o),o,j,o,o,1,!1,new A.afu(l),o,o,o)
 i=p.a
 s=t.p
-i=A.dI(A.a([A.aX("Aperti solo oggi",o,o,o,o,o,o,o,A.R(a).p2.y,o,o,o),new A.a__(i.a,new A.afv(i,l,b),o)],s),B.J,B.cu,B.E)
+i=A.dI(A.a([A.aX("Solo aperti oggi",o,o,o,o,o,o,o,A.R(a).p2.y,o,o,o),new A.a__(i.a,new A.afv(i,l,b),o)],s),B.J,B.cu,B.E)
 r=J.hr(p.c)
 r=A.F5("Seleziona attivit\xe0",k.b,A.d4("activity"),r,new A.afw(l),o,t.uC)
 q=J.hr(p.d)

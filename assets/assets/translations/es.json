@@ -1,30 +1,38 @@
 {
     "settings": {
         "title": "Configuración",
-        "language": "Idioma"
+        "language": "Idioma",
+        "contact_me_on_whatsapp": "Contáctame vía Whatsapp"
     },
     "home": {
         "business": {
             "title": "Servicios",
             "no_business_found": "No se encontró ningún servicio",
             "from_to": "DE ... A",
-            "closed": "Cerrado"
+            "closed": "Cerrado",
+            "temporarily_closed": "Cerrado temporalmente",
+            "temporarily_closed_from_to": "Del {from} al {to}",
+            "only_open_today": "Solo abierto hoy"
         },
         "events": {
             "title": "Eventos",
             "event": {
                 "title": "Eventos durante el día",
-                "no_event_found": "No se encontró ningún evento"
+                "no_event_found": "No se encontró ningún evento",
+                "share": "This is a placeholder {}!"
             }
         },
         "news_and_tips": {
             "title": "Noticias y consejos",
-            "useful_links": "enlaces útiles",
+            "useful_links": "Enlaces útiles",
             "search": "Buscar",
-            "no_news_found": "No se encontraron noticias"
+            "no_news_found": "No se encontraron noticias",
+            "news_or_tip": "Noticias/consejos",
+            "share": "This is a placeholder {}!"
         }
     },
     "activity": "Actividad",
+    "select_activity": "Seleccionar actividad",
     "contact": {
         "phone_number": "Teléfono",
         "email": "Email",
@@ -34,9 +42,13 @@
     "location": {
         "where": "Dónde"
     },
+    "select_where": "Seleccionar donde",
     "general": {
         "name": "Nombre",
+        "description": "Descripción",
         "filters": "Filtros",
+        "reset_filters": "Restablecer filtros",
+        "complete": "Completo",
         "yes": "Sí",
         "no": "No",
         "all": "Todos",

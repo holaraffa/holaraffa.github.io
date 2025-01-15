@@ -19,7 +19,7 @@
             "event": {
                 "title": "Eventos durante el día",
                 "no_event_found": "No se encontró ningún evento",
-                "share": "This is a placeholder {}!"
+                "share": "{}"
             }
         },
         "news_and_tips": {
@@ -28,7 +28,7 @@
             "search": "Buscar",
             "no_news_found": "No se encontraron noticias",
             "news_or_tip": "Noticias/consejos",
-            "share": "This is a placeholder {}!"
+            "share": "{}"
         }
     },
     "activity": "Actividad",
@@ -43,6 +43,8 @@
         "where": "Dónde"
     },
     "select_where": "Seleccionar donde",
+    "event_type": "Tipo de evento",
+    "select_event_type": "Seleccionar tipo de evento",
     "general": {
         "name": "Nombre",
         "description": "Descripción",

@@ -19,7 +19,7 @@
             "event": {
                 "title": "Eventi nella giornata",
                 "no_event_found": "Nessun evento trovato",
-                "share": "Questo va cambiato {}!"
+                "share": "{}"
             }
         },
         "news_and_tips": {
@@ -28,7 +28,7 @@
             "search": "Cerca",
             "no_news_found": "Nessuna notizia trovata",
             "news_or_tip": "Notizia/consiglio",
-            "share": "Questo va cambiato {}!"
+            "share": "{}"
         }
     },
     "activity": "Attività",
@@ -43,6 +43,8 @@
         "where": "Dove"
     },
     "select_where": "Seleziona dove",
+    "event_type": "Tipo di evento",
+    "select_event_type": "Seleziona tipo di evento",
     "general": {
         "name": "Nome",
         "description": "Descrizione",

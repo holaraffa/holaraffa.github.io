@@ -19,7 +19,7 @@
             "event": {
                 "title": "Events in the day",
                 "no_event_found": "No event found",
-                "share": "This is a placeholder {}!"
+                "share": "{}"
             }
         },
         "news_and_tips": {
@@ -28,7 +28,7 @@
             "search": "Search",
             "no_news_found": "No news found",
             "news_or_tip": "News/tip",
-            "share": "This is a placeholder {}!"
+            "share": "{}"
         }
     },
     "activity": "Activity",
@@ -43,6 +43,8 @@
         "where": "Where"
     },
     "select_where": "Select where",
+    "event_type": "Event type",
+    "select_event_type": "Select event type",
     "general": {
         "name": "Name",
         "description": "Description",

@@ -29,6 +29,15 @@
             "no_news_found": "No news found",
             "news_or_tip": "News/tip",
             "share": "{}"
+        },
+        "ferry": {
+            "title": "Ferry",
+            "timetable": "Timetable"
+        },
+        "autobus": {
+            "title": "Bus",
+            "timetable": "Bus timetable",
+            "info": "+info bus"
         }
     },
     "activity": "Activity",

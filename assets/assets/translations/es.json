@@ -29,6 +29,15 @@
             "no_news_found": "No se encontraron noticias",
             "news_or_tip": "Noticias/consejos",
             "share": "{}"
+        },
+        "ferry": {
+            "title": "Ferry",
+            "timetable": "Horario"
+        },
+        "autobus": {
+            "title": "Autobus",
+            "timetable": "Horario autobus",
+            "info": "+info autobus"
         }
     },
     "activity": "Actividad",

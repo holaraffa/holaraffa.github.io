@@ -29,6 +29,15 @@
             "no_news_found": "Nessuna notizia trovata",
             "news_or_tip": "Notizia/consiglio",
             "share": "{}"
+        },
+        "ferry": {
+            "title": "Traghetti",
+            "timetable": "Orario"
+        },
+        "autobus": {
+            "title": "Autobus",
+            "timetable": "Orario autobus",
+            "info": "+info autobus"
         }
     },
     "activity": "Attività",

@@ -12,7 +12,9 @@
             "closed": "Closed",
             "temporarily_closed": "Temporarily closed",
             "temporarily_closed_from_to": "From {from} to {to}",
-            "only_open_today": "Only open today"
+            "only_open_today": "Only open today",
+            "added_to_favorites": "Service added to favorites",
+            "removed_from_favorites": "Service removed from favorites"
         },
         "events": {
             "title": "Events",
@@ -28,7 +30,28 @@
             "search": "Search",
             "no_news_found": "No news found",
             "news_or_tip": "News/tip",
-            "share": "{}"
+            "share": "{}",
+            "read_more": " Read more"
+        },
+        "transport": {
+            "title": "Transport",
+            "ferry": {
+                "title": "Ferry",
+                "timetable": "Timetable",
+                "description": "Check the schedules and book. **Extra discount** with Trasmapi with the code **HOLARAFFA**.",
+                "buy": "Buy Trasmapi (discounted)"
+            },
+            "bus": {
+                "title": "Bus",
+                "timetable": "Bus timetable",
+                "info": "+info bus",
+                "description": "Bus schedules and useful information."
+            },
+            "routes": {
+                "title": "Routes",
+                "description": "Discover the best walking or cycling routes.",
+                "available_routes": "Available routes"
+            }
         },
         "ferry": {
             "title": "Ferry",
@@ -38,6 +61,20 @@
             "title": "Bus",
             "timetable": "Bus timetable",
             "info": "+info bus"
+        },
+        "beaches": {
+            "title": "Beaches",
+            "legend": "Legend",
+            "winds": {
+                "safe": "Safe winds",
+                "moderate": "Moderate winds",
+                "strong": "Strong winds"
+            },
+            "time": {
+                "now": "Now",
+                "today": "Today",
+                "tomorrow": "Tomorrow"
+            }
         }
     },
     "activity": "Activity",

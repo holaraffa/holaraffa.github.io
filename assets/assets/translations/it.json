@@ -12,7 +12,9 @@
             "closed": "Chiuso",
             "temporarily_closed": "Temporaneamente chiuso",
             "temporarily_closed_from_to": "Dal {from} al {to}",
-            "only_open_today": "Solo aperti oggi"
+            "only_open_today": "Solo aperti oggi",
+            "added_to_favorites": "Servizio messo tra i preferiti",
+            "removed_from_favorites": "Servizio rimosso dai preferiti"
         },
         "events": {
             "title": "Eventi",
@@ -28,7 +30,27 @@
             "search": "Cerca",
             "no_news_found": "Nessuna notizia trovata",
             "news_or_tip": "Notizia/consiglio",
-            "share": "{}"
+            "share": "{}",
+            "read_more": " continua..."
+        },
+        "transport": {
+            "title": "Trasporti",
+            "ferry": {
+                "title": "Traghetti",
+                "description": "Consulta gli orari e prenota. **Sconto extra** con Trasmapi con il codice **HOLARAFFA**",
+                "buy": "Compra Trasmapi (scontato)"
+            },
+            "bus": {
+                "title": "Autobus",
+                "timetable": "Orario autobus",
+                "info": "+info autobus",
+                "description": "Orari e informazioni utili sui bus."
+            },
+            "routes": {
+                "title": "Percorsi",
+                "description": "Scopri i migliori percorsi a piedi o in bici.",
+                "available_routes": "Percorsi disponibili"
+            }
         },
         "ferry": {
             "title": "Traghetti",
@@ -38,6 +60,20 @@
             "title": "Autobus",
             "timetable": "Orario autobus",
             "info": "+info autobus"
+        },
+        "beaches": {
+            "title": "Spiagge",
+            "legend": "Legenda",
+            "winds": {
+                "safe": "Venti sicuri",
+                "moderate": "Venti moderati",
+                "strong": "Venti forti"
+            },
+            "time": {
+                "now": "Ora",
+                "today": "Oggi",
+                "tomorrow": "Domani"
+            }
         }
     },
     "activity": "Attività",

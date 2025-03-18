@@ -100,7 +100,6 @@
         "yes": "Yes",
         "no": "No",
         "all": "All",
-        "other": "Other",
         "no_internet_connection": "No Internet connection",
         "check_connection": "Please check your connection"
     }

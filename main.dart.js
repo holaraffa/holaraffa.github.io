@@ -117113,10 +117113,10 @@ s=n&&o.length>1?o[1]:p
 if(n&&o.length>2){o.toString
 r=B.b.hV(o,2)}else r=p
 o=A.dG(q.b.lY("content"),t.N,t.z)
-if(m!=null)o.n(0,"main_link",m)
-if(s!=null)o.n(0,"other_link",s)
-n=q.c
-o.n(0,"image_url",n==null?"":n)
+o.n(0,"main_link",m)
+o.n(0,"other_link",s)
+s=q.c
+o.n(0,"image_url",s==null?"":s)
 o.n(0,"created_at",q.e)
 o.n(0,"links",r)
 return o},

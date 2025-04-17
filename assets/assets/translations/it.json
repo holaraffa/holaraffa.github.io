@@ -10,6 +10,7 @@
             "no_business_found": "Nessun servizio trovato",
             "from_to": "DALLE ... ALLE",
             "closed": "Chiuso",
+            "open": "Aperto",
             "temporarily_closed": "Temporaneamente chiuso",
             "temporarily_closed_from_to": "Dal {from} al {to}",
             "only_open_today": "Solo aperti oggi",
@@ -40,8 +41,12 @@
                 "description": "Consulta gli orari e prenota. **Sconto extra** con Trasmapi con il codice **HOLARAFFA**",
                 "buy": "Compra Trasmapi (scontato)"
             },
+            "taxi": {
+                "title": "Taxi",
+                "description": ""
+            },
             "bus": {
-                "title": "Autobus",
+                "title": "Autobus\nOrari e Info",
                 "timetable": "Orario autobus",
                 "info": "+info autobus",
                 "description": "Orari e informazioni utili sui bus."

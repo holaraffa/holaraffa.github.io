@@ -10,6 +10,7 @@
             "no_business_found": "No service found",
             "from_to": "FROM ... TO",
             "closed": "Closed",
+            "open": "Open",
             "temporarily_closed": "Temporarily closed",
             "temporarily_closed_from_to": "From {from} to {to}",
             "only_open_today": "Only open today",
@@ -41,8 +42,12 @@
                 "description": "Check the schedules and book. **Extra discount** with Trasmapi with the code **HOLARAFFA**.",
                 "buy": "Buy Trasmapi (discounted)"
             },
+            "taxi": {
+                "title": "Taxi",
+                "description": ""
+            },
             "bus": {
-                "title": "Bus",
+                "title": "Bus\nTimetable and Info",
                 "timetable": "Bus timetable",
                 "info": "+info bus",
                 "description": "Bus schedules and useful information."

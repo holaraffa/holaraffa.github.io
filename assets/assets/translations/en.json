@@ -48,7 +48,7 @@
             },
             "bus": {
                 "title": "Bus\nTimetable and Info",
-                "timetable": "Bus timetable",
+                "timetable": "timetable",
                 "info": "+info bus",
                 "description": "Bus schedules and useful information."
             },

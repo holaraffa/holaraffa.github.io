@@ -47,7 +47,7 @@
             },
             "bus": {
                 "title": "Autobus\nOrari e Info",
-                "timetable": "Orario autobus",
+                "timetable": "orario",
                 "info": "+info autobus",
                 "description": "Orari e informazioni utili sui bus."
             },

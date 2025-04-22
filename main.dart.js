@@ -119754,7 +119754,7 @@ if(l<o){n=A.a7(A.OS(r),A.OS(q),(l-p)/(o-p))
 n.toString
 return n}}m=B.b.ga7(B.i3)
 n=m.a*60+m.b
-n=A.a7(A.OS(m),1,(l-n)/(1440-n))
+n=A.a7(A.OS(m),0.85,(l-n)/(1440-n))
 n.toString
 return n},
 I(a){var s=this,r=null,q=s.d,p=A.btY(q,14),o=s.c,n=a.W(t.g).r.a

@@ -17,6 +17,9 @@
             "added_to_favorites": "Servicio añadido a favoritos",
             "removed_from_favorites": "Servicio eliminado de favoritos"
         },
+        "servicesMap": {
+            "title": "Mapa"
+        },
         "events": {
             "title": "Eventos",
             "event": {
@@ -81,6 +84,12 @@
                 "tomorrow": "Mañana"
             }
         }
+    },
+    "update": {
+        "title": "Actualización obligatoria",
+        "description": "Hay una nueva actualización obligatoria disponible para la app. Para seguir usándola, debes actualizar a la última versión.",
+        "update_now": "Actualizar ahora",
+        "redirect_message": "Serás redirigido a la tienda para descargar la actualización."
     },
     "activity": "Actividad",
     "select_activity": "Seleccionar actividad",

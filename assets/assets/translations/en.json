@@ -17,6 +17,9 @@
             "added_to_favorites": "Service added to favorites",
             "removed_from_favorites": "Service removed from favorites"
         },
+        "servicesMap": {
+            "title": "Map"
+        },
         "events": {
             "title": "Events",
             "event": {
@@ -81,6 +84,12 @@
                 "tomorrow": "Tomorrow"
             }
         }
+    },
+    "update": {
+        "title": "Mandatory update",
+        "description": "A new mandatory update is available for the app. To continue using the app, you must update to the latest version.",
+        "update_now": "Update now",
+        "redirect_message": "You will be redirected to the store to download the update."
     },
     "activity": "Activity",
     "select_activity": "Select activities",

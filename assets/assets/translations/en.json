@@ -17,8 +17,9 @@
             "added_to_favorites": "Service added to favorites",
             "removed_from_favorites": "Service removed from favorites"
         },
-        "servicesMap": {
-            "title": "Map"
+        "services_map": {
+            "title": "Map",
+            "your_position": "Your position"
         },
         "events": {
             "title": "Events",

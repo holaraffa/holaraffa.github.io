@@ -17,8 +17,9 @@
             "added_to_favorites": "Servizio messo tra i preferiti",
             "removed_from_favorites": "Servizio rimosso dai preferiti"
         },
-        "servicesMap": {
-            "title": "Mappa"
+        "services_map": {
+            "title": "Mappa",
+            "your_position": "La tua posizione"
         },
         "events": {
             "title": "Eventi",

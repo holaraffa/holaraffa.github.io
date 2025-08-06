@@ -15,7 +15,8 @@
             "temporarily_closed_from_to": "Dal {from} al {to}",
             "only_open_today": "Solo aperti oggi",
             "added_to_favorites": "Servizio messo tra i preferiti",
-            "removed_from_favorites": "Servizio rimosso dai preferiti"
+            "removed_from_favorites": "Servizio rimosso dai preferiti",
+            "my_opinion": "Il mio parere"
         },
         "services_map": {
             "title": "Mappa",

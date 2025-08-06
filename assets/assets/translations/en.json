@@ -15,7 +15,8 @@
             "temporarily_closed_from_to": "From {from} to {to}",
             "only_open_today": "Only open today",
             "added_to_favorites": "Service added to favorites",
-            "removed_from_favorites": "Service removed from favorites"
+            "removed_from_favorites": "Service removed from favorites",
+            "my_opinion": "My opinion"
         },
         "services_map": {
             "title": "Map",

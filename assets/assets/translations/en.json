@@ -44,8 +44,14 @@
             "ferry": {
                 "title": "Ferry",
                 "timetable": "Timetable",
-                "description": "Check the schedules and book. **Extra discount** with Trasmapi with the code **HOLARAFFA**.",
+                "description": "Check the schedules and book. **Extra discount** with Trasmapi with the code **HOLARAFFA**",
                 "buy": "Buy Trasmapi (discounted)"
+            },
+            "rent_cars": {
+                "title": "Car & Scooter Rental",
+                "description": "Rent car and scooter. **Extra discount** with the code **HOLARAFFA**",
+                "cars": "Car (discounted)",
+                "scooters": "Scooter (discounted)"
             },
             "taxi": {
                 "title": "Taxi",

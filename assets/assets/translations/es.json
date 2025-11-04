@@ -44,8 +44,14 @@
             "ferry": {
                 "title": "Ferry",
                 "timetable": "Horario",
-                "description": "Consulta los horarios y reserva. **Descuento extra** con Trasmapi con el código **HOLARAFFA**.",
+                "description": "Consulta los horarios y reserva. **Descuento extra** con Trasmapi con el código **HOLARAFFA**",
                 "buy": "Compra Trasmapi (con descuento)"
+            },
+            "rent_cars": {
+                "title": "Alquiler de Coche y Moto",
+                "description": "Alquila Coche y Moto. **Descuento extra** con el código **HOLARAFFA**",
+                "cars": "Coche (con descuento)",
+                "scooters": "Moto (con descuento)"
             },
             "taxi": {
                 "title": "Taxi",

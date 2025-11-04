@@ -46,6 +46,12 @@
                 "description": "Consulta gli orari e prenota. **Sconto extra** con Trasmapi con il codice **HOLARAFFA**",
                 "buy": "Compra Trasmapi (scontato)"
             },
+            "rent_cars": {
+                "title": "Noleggia auto e moto",
+                "description": "Noleggia auto e moto. **Sconto extra** con il codice **HOLARAFFA**",
+                "cars": "Auto (scontato)",
+                "scooters": "Moto (scontato)"
+            },
             "taxi": {
                 "title": "Taxi",
                 "description": ""

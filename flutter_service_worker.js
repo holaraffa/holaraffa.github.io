@@ -3,10 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7d89d03cc317b07d799c15244ddbe645",
-"assets/AssetManifest.bin.json": "da73230c7068db303682fa55dcd535b6",
-"assets/AssetManifest.json": "ed87562545b6f3c14ce3bb9d563b3bad",
+const RESOURCES = {"assets/AssetManifest.bin": "20bf7297863bc784b7e4512e5354fc57",
+"assets/AssetManifest.bin.json": "dad75af53d14dc50989409693dd97217",
+"assets/AssetManifest.json": "31d32a197f7aee0d24d32dee67101d63",
 "assets/assets/fonts/carter-one/CarterOne-Regular.ttf": "3226bb55ad746ec8b6495ce6655cfc63",
+"assets/assets/images/collaborations/BlueAutos.png": "dd072ba30f143be194a4239da1e37521",
+"assets/assets/images/collaborations/mitjornmotorent.png": "7fc9cff214e2236638954b84b0e1dd11",
+"assets/assets/images/collaborations/motorentpujols2.png": "5061f589ccc7a0e761a5a266873a46dc",
+"assets/assets/images/collaborations/proautorentacar.png": "6e43024986fde001cb557c21fd282f1d",
 "assets/assets/images/icon.png": "cdfc50fc1664a5577b5f372a256faa54",
 "assets/assets/images/logo.png": "dd59fb20bb761b9566bac210e51dfc6e",
 "assets/assets/images/wind_rose.png": "d47a793370cff4a65058bfc5af67b1b0",
@@ -15,7 +19,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d89d03cc317b07d799c15244ddbe645
 "assets/assets/translations/es.json": "668264ffb7c9cc2f3eda20d2fcdd8fdc",
 "assets/assets/translations/it.json": "4cf1faa6eb36ce7f2fe87bc72d24e2db",
 "assets/FontManifest.json": "292d18d07ecc07d6cb75d5012177e0ca",
-"assets/fonts/MaterialIcons-Regular.otf": "11c0a9429fdb5b4730581038949ad9c7",
+"assets/fonts/MaterialIcons-Regular.otf": "9f4111ded34252eeb1d7e3342d75a438",
 "assets/NOTICES": "3c6d2a9ed248b8f58b0a451937a998ab",
 "assets/packages/country_flags/res/si/ac.si": "084b17449dd0ba76474f133039ee68d3",
 "assets/packages/country_flags/res/si/ad.si": "c3ccb8e3cf8b3ce384280c687c94ed53",
@@ -832,16 +836,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d89d03cc317b07d799c15244ddbe645
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "4ec95a57e9be5d3cf4e46857962b57b6",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "ece70a553b8d2b21d0775422c9e6b882",
+"flutter_bootstrap.js": "24a58852b25b7ab23bd46676ce40953e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "332991bc6761749ab3b191d13f922440",
 "/": "332991bc6761749ab3b191d13f922440",
-"main.dart.js": "8e253804b7cf1a0ab666d6060ac0052e",
+"main.dart.js": "2c49d15398d32da7f7cb7f85c273dbe5",
 "manifest.json": "88d7e3c2c1fed0e6b731216dd30bc79d",
-"version.json": "4a94854390fbb32733f02334a3371286"};
+"version.json": "6855dd9c8939e4a8169eedddc7ffaf29"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
